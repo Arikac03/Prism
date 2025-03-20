@@ -10,7 +10,7 @@ struct AuthView: View {
     
     let roles = ["Model", "Actor", "Photographer", "Videographer"]
     let gradient = LinearGradient(
-        colors: [.purple.opacity(0.8), .blue.opacity(0.8)],
+        colors: [.urple.opacity(0.8), .blue.opacity(0.8)],
         startPoint: .topLeading,
         endPoint: .bottomTrailing
     )
