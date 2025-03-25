@@ -28,7 +28,7 @@ struct OnboardingView: View {
             ZStack {
                 // Background gradient
                 LinearGradient(
-                    colors: [.purple.opacity(0.8), .blue.opacity(0.8)],
+                    colors: [.pink.opacity(0.8), .blue.opacity(0.8)],
                     startPoint: .topLeading,
                     endPoint: .bottomTrailing
                 )
