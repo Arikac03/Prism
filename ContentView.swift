@@ -45,7 +45,7 @@ struct ContentView: View {
                 }
                 .tag(3)
         }
-        .tint(.purple) // Custom accent color
+        .tint(.pink) // Custom accent color
     }
 }
 
